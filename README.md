@@ -8,15 +8,10 @@ Simple game taken from [The Rust Programming Language](https://rust-book.cs.brow
 
 ## How to play
 
-Download this repository
+Just download this repository and run it
 
-```bash
+```shell
 git clone https://github.com/thi-marques/guessing-game.git
 cd guessing-game
-```
-
-And run it
-
-```bash
 node .
 ```
